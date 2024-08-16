@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\VeHinh\obj\Debug\net8.0\VeHinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\VeHinh\obj\Debug\net8.0\VeHinh.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\VeHinh\obj\Debug\net8.0\VeHinh.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\VeHinh\obj\Debug\net8.0\VeHinh.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\VeHinh\bin\Debug\net8.0\VeHinh.exe
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\VeHinh\bin\Debug\net8.0\VeHinh.deps.json
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\VeHinh\bin\Debug\net8.0\VeHinh.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\VeHinh\bin\Debug\net8.0\VeHinh.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\VeHinh\bin\Debug\net8.0\VeHinh.pdb
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\VeHinh\obj\Debug\net8.0\VeHinh.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\VeHinh\obj\Debug\net8.0\refint\VeHinh.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\VeHinh\obj\Debug\net8.0\VeHinh.pdb
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\VeHinh\obj\Debug\net8.0\VeHinh.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\VeHinh\obj\Debug\net8.0\ref\VeHinh.dll
